@@ -1,0 +1,80 @@
+Project Name : Manual Testing of Amazon E-Commerce Web Application
+
+Application Name: Amazon
+Type: Web Application
+
+Prepared By
+Shankara Narayana
+
+Document Version
+1.0
+
+Test Plan ID
+TP_AMZN_001
+
+1. Introduction
+This Test Plan document outlines the scope, objectives, approach, resources, and schedule for manual testing of the E-Commerce Web Application.
+
+2. Objectives
+  - Verify application functionality
+  - Identify defects
+  - Ensure system stability and usability
+
+3. Scope of Testing
+  In Scope:
+    - Functional Testing
+    - Integration Testing
+    - System Testing
+    - Regression Testing
+
+  Out of Scope:
+    - Automation Testing
+    - Performance Testing
+    - Security Testing
+
+4. Test Environment
+  Operating System: Windows 10
+  Browser: Chrome, Firefox
+  Testing Type: Manual
+
+5. Test Strategy
+  Manual execution of test cases based on requirements. Defects will be logged and tracked until closure.
+
+6. Entry Criteria
+  - Application build available
+  - Test cases prepared
+
+7. Exit Criteria
+  - All critical defects fixed
+  - Test cases executed
+
+8. Test Deliverables
+  - Test Plan
+  - Test Cases
+  - Defect Reports
+  - Test Summary Report
+
+9. Roles and Responsibilities
+  Tester: Execute test cases and report defects
+  Developer: Fix reported defects
+
+10. Risks and Mitigation
+  Risk: Incomplete requirements
+  Mitigation: Clarify with stakeholders
+
+11. Approval
+  This test plan is approved and ready for execution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
